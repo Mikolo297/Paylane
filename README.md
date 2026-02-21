@@ -1,3 +1,6 @@
+# Paylane
+A frontend banking web app built with React, TypeScript and Tailwind CSS. Features include send money, transaction history, multi-currency support (USD/NGN) and a landing page.
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
